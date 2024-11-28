@@ -1,11 +1,6 @@
 <h1 align="center">EventoManager</h1>
 <p align="center">Trabalho de desenvolvimento web 2024.2.</p>
 
-<p align="center">
-  <a href="#-technologies">Tecnologias</a>
-  <a href="#-technologies">Imagens</a>
-</p>
-                 
 ## 🔧 Tecnologias
 
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/),
