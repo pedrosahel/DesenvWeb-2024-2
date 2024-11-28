@@ -17,6 +17,6 @@
 ## Imagens
 
 <img src="/index.png">
-<img src="/login">
+<img src="/login.png">
 <img src="/signup.png">
 <img src="/admin.png">
